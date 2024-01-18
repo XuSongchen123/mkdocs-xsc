@@ -61,9 +61,9 @@ nav:
     - Chp3: Verilog/Chp3.md
   - Deep Learning:
     - Deep-Learning/index.md
-    - Chp1: Deep-Learning/Quantization.md
-    - Chp2: Deep-Learning/Spiking-Neural-Network.md
-    - Chp3: Deep-Learning/Chp3.md
+    - Quantization: Deep-Learning/Quantization.md
+    - Spiking Neural Network: Deep-Learning/Spiking-Neural-Network.md
+    - Others: Deep-Learning/Others.md
   - About Me: about.md
 
 markdown_extensions:
